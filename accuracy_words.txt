@@ -61,8 +61,10 @@ Exaggerated
 Overstated
 Understated
 Distorted
-Misleading description
-Misleading photos
+Misleading 
+description
+Misleading 
+photos
 Mismatch
 Untruthful
 Incorrect
@@ -70,15 +72,20 @@ Fabricated
 Falsified
 Unfaithful
 Unreliable
-Misleading portrayal
-Misleading depiction
+Misleading 
+portrayal
+Misleading 
+depiction
 Unrealistic
-Misleading advertisement
+Misleading 
+advertisement
 Incongruent
 Disparity
 Untrustworthy
-Misleading listing
-Inaccurate representation
+Misleading 
+listing
+Inaccurate 
+representation
 False advertising
 Inauthentic
 Misleading information
