@@ -1,0 +1,15 @@
+,Model,Best Params,MSE,MAE,R^2,Category
+0,Ridge,"{'alpha': 1, 'solver': 'lsqr'}",0.049145830498661364,0.1551533942901986,0.21856634247230156,review_scores_rating
+1,DummyRegressor,{'strategy': 'mean'},0.06291265042050405,0.18232836154404777,-0.00033028283437075423,review_scores_rating
+2,Ridge,"{'alpha': 1, 'solver': 'saga'}",0.04107379373378961,0.13590882976780286,0.17956323800743446,review_scores_accuracy
+3,DummyRegressor,{'strategy': 'mean'},0.05009527408639269,0.1549830278653808,-0.0006381375178141635,review_scores_accuracy
+4,Ridge,"{'alpha': 0.01, 'solver': 'sag'}",0.06146473599764851,0.18411170142947128,0.15720191532197103,review_scores_cleanliness
+5,DummyRegressor,{'strategy': 'mean'},0.07294292920379868,0.2040286728522023,-0.00018587936534064653,review_scores_cleanliness
+6,Ridge,"{'alpha': 10, 'solver': 'lsqr'}",0.04296925162773305,0.13240889135203898,0.14580919577789375,review_scores_checkin
+7,DummyRegressor,{'strategy': 'mean'},0.05030914977191711,0.1448209394091747,-0.00010150224884064585,review_scores_checkin
+8,Ridge,"{'alpha': 1, 'solver': 'sag'}",0.027918380674413087,0.10474935273102029,0.20301516049704793,review_scores_communication
+9,DummyRegressor,{'strategy': 'mean'},0.035055474717492964,0.12447105545144756,-0.0007271631275678203,review_scores_communication
+10,Ridge,"{'alpha': 0.001, 'solver': 'sag'}",0.039818517183122425,0.14268824655623646,0.10390983141749288,review_scores_location
+11,DummyRegressor,{'strategy': 'mean'},0.04445579500111848,0.15317201679946774,-0.00044912907773442257,review_scores_location
+12,Ridge,"{'alpha': 1, 'solver': 'lsqr'}",0.05707824260158852,0.17262397297983492,0.21027688705145808,review_scores_value
+13,DummyRegressor,{'strategy': 'mean'},0.07247688217057913,0.20165155831822482,-0.0027756005746659707,review_scores_value
